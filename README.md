@@ -11,7 +11,7 @@ A simple, clean web app built using Vibe Coding (Replit) that shares wellness ti
 
 - HTML/CSS
 - Vibe Coding on Replit
-- JavaScript (Optional, if used)
+- JavaScript 
 
 ---
 
