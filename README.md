@@ -26,7 +26,8 @@ A simple, clean web app built using Vibe Coding (Replit) that shares wellness ti
 
 ## 📸 Screenshot
 
-*Add a screenshot of your app interface here.*
+![image](https://github.com/user-attachments/assets/07a698c8-ca8f-48fa-a0f9-d954c5453796)
+
 
 ---
 
